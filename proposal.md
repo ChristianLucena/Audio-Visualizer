@@ -16,6 +16,14 @@ Dynamic Pixel Mapping
 User Interaction
     - Users will be able to pause, play, and skim through different parts of the visualizer to see its changes through the run time.
 
+## Challenges
+Logic for file reading/ conversion
+  - Uploaded files need to be read by the program in the same way to have the desired outcome
+Mapping visuals to Audio frequencies
+  - Since this is an active visual program real-time mapping is required as it is running. This also needs to be done without causing lag.
+Varying visual so the outcome does not become stale
+  - I want the desired outcome to be unique each time and relate to the frequencies of the files uploaded. Doing this may be difficult when having to write variations within the code.
+
 ## Outcomes
 Ideal Outcome:
 - A polished application where users can drag-and-drop any audio file to generate highly responsive, intricate pixel-art environments with customizable color palettes and visual themes.
